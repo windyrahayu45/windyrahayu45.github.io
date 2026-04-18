@@ -1093,6 +1093,10 @@ footer .footer__social a:hover {
     margin-left: auto;
   }
 
+  .skills__container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
   .change-theme {
     margin: 0;
   }
