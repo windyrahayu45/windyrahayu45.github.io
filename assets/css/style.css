@@ -1096,10 +1096,6 @@ footer .footer__social a:hover {
     grid-template-columns: repeat(3, 1fr);
   }
 
-  .container {
-    max-width: 968px;
-  }
-
   .change-theme {
     margin: 0;
   }
