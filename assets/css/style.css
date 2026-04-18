@@ -1035,7 +1035,6 @@ footer .footer__social a:hover {
   }
 
   .about__container,
-  .skills__container,
   .portfolio__content,
   .project__container,
   .contact__container,
@@ -1095,6 +1094,10 @@ footer .footer__social a:hover {
 
   .skills__container {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .container {
+    max-width: 968px;
   }
 
   .change-theme {
